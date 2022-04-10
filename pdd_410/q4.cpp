@@ -14,7 +14,7 @@
         for(int i = 0; i < m; i++){
             cin >> intervals[i];
         }
-        if(m == n){
+        if(m == 0){
             cout << 0 << endl;
             return 0;
         }
