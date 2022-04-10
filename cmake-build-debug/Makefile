@@ -142,32 +142,32 @@ online_review/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/online_review.dir/build.make CMakeFiles/online_review.dir/build
 .PHONY : online_review/fast
 
-tencent_407/q2.o: tencent_407/q2.cpp.o
+pdd_410/q4.o: pdd_410/q4.cpp.o
 
-.PHONY : tencent_407/q2.o
+.PHONY : pdd_410/q4.o
 
 # target to build an object file
-tencent_407/q2.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/online_review.dir/build.make CMakeFiles/online_review.dir/tencent_407/q2.cpp.o
-.PHONY : tencent_407/q2.cpp.o
+pdd_410/q4.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/online_review.dir/build.make CMakeFiles/online_review.dir/pdd_410/q4.cpp.o
+.PHONY : pdd_410/q4.cpp.o
 
-tencent_407/q2.i: tencent_407/q2.cpp.i
+pdd_410/q4.i: pdd_410/q4.cpp.i
 
-.PHONY : tencent_407/q2.i
+.PHONY : pdd_410/q4.i
 
 # target to preprocess a source file
-tencent_407/q2.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/online_review.dir/build.make CMakeFiles/online_review.dir/tencent_407/q2.cpp.i
-.PHONY : tencent_407/q2.cpp.i
+pdd_410/q4.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/online_review.dir/build.make CMakeFiles/online_review.dir/pdd_410/q4.cpp.i
+.PHONY : pdd_410/q4.cpp.i
 
-tencent_407/q2.s: tencent_407/q2.cpp.s
+pdd_410/q4.s: pdd_410/q4.cpp.s
 
-.PHONY : tencent_407/q2.s
+.PHONY : pdd_410/q4.s
 
 # target to generate assembly for a file
-tencent_407/q2.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/online_review.dir/build.make CMakeFiles/online_review.dir/tencent_407/q2.cpp.s
-.PHONY : tencent_407/q2.cpp.s
+pdd_410/q4.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/online_review.dir/build.make CMakeFiles/online_review.dir/pdd_410/q4.cpp.s
+.PHONY : pdd_410/q4.cpp.s
 
 # Help Target
 help:
@@ -178,9 +178,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... online_review"
-	@echo "... tencent_407/q2.o"
-	@echo "... tencent_407/q2.i"
-	@echo "... tencent_407/q2.s"
+	@echo "... pdd_410/q4.o"
+	@echo "... pdd_410/q4.i"
+	@echo "... pdd_410/q4.s"
 .PHONY : help
 
 
