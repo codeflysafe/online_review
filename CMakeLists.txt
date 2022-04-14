@@ -3,4 +3,4 @@ project(online_review)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(online_review huawei413_/q1.cpp)
+add_executable(online_review trip_414/q4.cpp)

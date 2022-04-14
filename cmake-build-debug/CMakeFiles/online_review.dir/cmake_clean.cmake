@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/online_review.dir/huawei413_/q1.cpp.o"
+  "CMakeFiles/online_review.dir/trip_414/q4.cpp.o"
   "online_review"
   "online_review.pdb"
 )

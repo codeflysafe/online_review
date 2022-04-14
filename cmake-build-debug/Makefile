@@ -142,32 +142,32 @@ online_review/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/online_review.dir/build.make CMakeFiles/online_review.dir/build
 .PHONY : online_review/fast
 
-huawei413_/q1.o: huawei413_/q1.cpp.o
+trip_414/q4.o: trip_414/q4.cpp.o
 
-.PHONY : huawei413_/q1.o
+.PHONY : trip_414/q4.o
 
 # target to build an object file
-huawei413_/q1.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/online_review.dir/build.make CMakeFiles/online_review.dir/huawei413_/q1.cpp.o
-.PHONY : huawei413_/q1.cpp.o
+trip_414/q4.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/online_review.dir/build.make CMakeFiles/online_review.dir/trip_414/q4.cpp.o
+.PHONY : trip_414/q4.cpp.o
 
-huawei413_/q1.i: huawei413_/q1.cpp.i
+trip_414/q4.i: trip_414/q4.cpp.i
 
-.PHONY : huawei413_/q1.i
+.PHONY : trip_414/q4.i
 
 # target to preprocess a source file
-huawei413_/q1.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/online_review.dir/build.make CMakeFiles/online_review.dir/huawei413_/q1.cpp.i
-.PHONY : huawei413_/q1.cpp.i
+trip_414/q4.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/online_review.dir/build.make CMakeFiles/online_review.dir/trip_414/q4.cpp.i
+.PHONY : trip_414/q4.cpp.i
 
-huawei413_/q1.s: huawei413_/q1.cpp.s
+trip_414/q4.s: trip_414/q4.cpp.s
 
-.PHONY : huawei413_/q1.s
+.PHONY : trip_414/q4.s
 
 # target to generate assembly for a file
-huawei413_/q1.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/online_review.dir/build.make CMakeFiles/online_review.dir/huawei413_/q1.cpp.s
-.PHONY : huawei413_/q1.cpp.s
+trip_414/q4.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/online_review.dir/build.make CMakeFiles/online_review.dir/trip_414/q4.cpp.s
+.PHONY : trip_414/q4.cpp.s
 
 # Help Target
 help:
@@ -178,9 +178,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... online_review"
-	@echo "... huawei413_/q1.o"
-	@echo "... huawei413_/q1.i"
-	@echo "... huawei413_/q1.s"
+	@echo "... trip_414/q4.o"
+	@echo "... trip_414/q4.i"
+	@echo "... trip_414/q4.s"
 .PHONY : help
 
 
