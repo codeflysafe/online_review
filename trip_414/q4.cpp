@@ -25,10 +25,14 @@ int ckn(int n, int k){
     if(cnks[n][k] != -1){
         return cnks[n][k];
     }else{
-        long long cur = 1, next = 1;
+        if(k == 1) {
+            cnks[n][1] = cnks[n][n-1] = n;
+            return cnks[n][1];
+        }
+        long long cur = n, next = 1;
         for(int i = 1; i <= k; i++){
-            cur = (cur * i)%mod ;
-            next = (next * i)%mod;
+            cur = (cur * (n-i))%mod ;
+            next = (next * (i + 1))%mod;
             cnks[n][i] = cnks[n][n-i]  =  int(cur/next);
         }
         return cnks[n][k];
